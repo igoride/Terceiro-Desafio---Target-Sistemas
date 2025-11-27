@@ -5,7 +5,11 @@ Programa console para calcular juros sobre um valor vencido, considerando a quan
 Funcionalidades:
 
 Solicitação da data de vencimento e valor.
+
 Cálculo automático dos dias de atraso.
+
 Aplicação da multa diária de 2,5% (juros simples).
+
 Exibição detalhada do cálculo realizado.
+
 Menu para permitir múltiplos cálculos.
