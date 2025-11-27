@@ -42,7 +42,7 @@
             double valor = double.Parse(Console.ReadLine()!);
             double juros = 0.025;
             double multa = 0;
-            double valorFinal = 0;
+            double valorFinal;
 
             int diasAtraso = (hoje - dataVencimento).Days;
 
